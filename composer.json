@@ -1,6 +1,6 @@
 {
     "name": "laranex/lucid",
-    "description": "An architecture for scalable software.",
+    "description": "An architecture for scalable software. A maintained version of the https://lucidarch.dev/",
     "type": "library",
     "license": "MIT",
     "keywords": ["architecture", "lucid", "laravel"],
