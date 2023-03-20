@@ -1,6 +1,20 @@
 
-## This is an unofficial, maintained version of the https://lucidarch.dev, maintained by the developers from the onenex.co due to their inactivity after the release of laravel 10.x.
-## We give full credits to the https://lucidarch.dev & we only maintain this just to improve the community.
+### This is an unofficial, maintained version of the https://lucidarch.dev, maintained by the developers from the https://onenex.co .
+### We give full credit to the https://lucidarch.dev & we only maintain this just to improve the community.
+
+### The main reasons behind this maintained repository are as follows.
+- The job dispatching behaviour of Laravel changed after the release of version 10.x - https://github.com/laravel/framework/commit/5f61fd1af0fa0b37a8888637578459eae21faeb
+- Lucid stop working after that release and, I have already created a PR and try to reach to the original devs via slack - https://github.com/lucidarch/lucid/pull/50
+- Since I want lucid to work on Laravel 10.x before their (lucid team) official support, I created this maintained version.
+- I really appreciate and love the work of lucidarch.
+___
+
+### installation
+```bash
+composer require laranex/lucid
+```
+Please refer to the official lucid docs for the rest of the things.
+___
 
 <p align="center"><a href="https://lucidarch.dev" target="_blank"><img src="https://raw.githubusercontent.com/lucidarch/artwork/main/logo.jpg" width="400"></a></p>
 
