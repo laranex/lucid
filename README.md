@@ -4,7 +4,7 @@
 
 ### The main reasons behind this maintained repository are as follows.
 - The job dispatching behaviour of Laravel changed after the release of version 10.x - https://github.com/laravel/framework/commit/5f61fd1af0fa0b37a8888637578459eae21faeb
-- Lucid stop working after that release and, I have already created a PR and try to reach to the original devs via slack - https://github.com/lucidarch/lucid/pull/50
+- Lucid stop working after that release and, I have already created a PR and try to reach to the original devs via slack - https://github.com/lucidarch/lucid/pull/51
 - Since I want lucid to work on Laravel 10.x before their (lucid team) official support, I created this maintained version.
 - I really appreciate and love the work of lucidarch.
 ___
