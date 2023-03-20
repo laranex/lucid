@@ -1,3 +1,7 @@
+
+## This is an unofficial, maintained version of the https://lucidarch.dev, maintained by the developers from the onenex.co due to their inactivity after the release of laravel 10.x.
+## We give full credits to the https://lucidarch.dev & we only maintain this just to improve the community.
+
 <p align="center"><a href="https://lucidarch.dev" target="_blank"><img src="https://raw.githubusercontent.com/lucidarch/artwork/main/logo.jpg" width="400"></a></p>
 
 <p align="center" style="margin-left: -20px">
