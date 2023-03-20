@@ -1,20 +1,24 @@
 {
-    "name": "lucidarch/lucid",
+    "name": "laranex/lucid",
     "description": "An architecture for scalable software.",
     "type": "library",
     "license": "MIT",
     "keywords": ["architecture", "lucid", "laravel"],
-    "homepage": "https://lucidarch.dev",
+    "homepage": "https://laranex.dev",
     "bin": ["lucid"],
     "support": {
-        "source": "https://github.com/lucidarch/lucid",
-        "issues": "https://github.com/lucidarch/lucid/issues",
-        "discussions": "https://github.com/lucidarch/lucid/discussions"
+        "source": "https://github.com/laranex/lucid",
+        "issues": "https://github.com/laranex/lucid/issues",
+        "discussions": "https://github.com/laranex/lucid/discussions"
     },
     "authors": [
         {
             "name": "Abed Halawi",
             "email": "halawi.abed@gmail.com"
+        },
+        {
+            "name": "Nay Thu Khant",
+            "email": "naythukhant644@gmail.com"
         }
     ],
     "require": {
